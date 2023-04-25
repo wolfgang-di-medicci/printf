@@ -2,7 +2,7 @@
 
 /**
  * prinnhex - print number in hex begining with zero
- * @arguments: input string
+ * @argument: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: number of chars printed
