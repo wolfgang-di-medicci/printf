@@ -2,7 +2,7 @@
 
 /**
  * print_rev - writes the str in reverse
- * @argument: input string
+ * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: number of chars printed.
