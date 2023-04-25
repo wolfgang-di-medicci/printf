@@ -2,7 +2,7 @@
 
 /**
  * prinlint - prints a long integer
- * @arguments: input string
+ * @argument: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: number of chars printed.
