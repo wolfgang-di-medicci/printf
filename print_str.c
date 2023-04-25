@@ -2,7 +2,7 @@
 
 /**
  * print_str - writes the string to stdout
- * @arguments: input string
+ * @argument: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: On success 1.
